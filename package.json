@@ -1,6 +1,7 @@
 {
     "homepage": "https://sbhusal123.github.io/react-quiz",
     "name": "react-quiz",
+    "description": "react quiz app",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
